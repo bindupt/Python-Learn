@@ -1,0 +1,16 @@
+x=5
+y=8
+print(" x == y :", x == y)
+print(" x != y :", x != y)
+print(" x < y :", x < y)
+print(" x > y :", x > y)
+print(" x <= y :", x <= y)
+print(" x >= y :", x >= y)
+Welcome = "Welcome"
+welcome = "welcome"
+print("Welcome==welcome:",Welcome==welcome)
+a="Ajith"
+b="ajith"
+print("a>b",a>b)
+print("a<b",a<b)
+print("a==b",a==b)
